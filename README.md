@@ -1,0 +1,5 @@
+-  Hi, I’m Ayush Mahajan
+-  I’m interested in java
+-  I’m currently learning Python
+-  I’m looking to collaborate on Java/Python Software development
+-  How to reach me ayush10mahajan@gmail.com
